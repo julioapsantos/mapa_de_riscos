@@ -1,0 +1,199 @@
+body{
+    background-color: gray;
+}
+h1{position: relative;
+    letter-spacing: 40px;
+    font-size: 50px;
+    color: green;
+    left: 30PX;
+    margin: 0px;
+    max-width: 1860px;
+    font-style: normal;
+    font-family: "New amsterdam", cursive;
+    font-weight: 400;
+}
+.grande{
+display: inline-block;
+position: relative;
+top: 30px;
+left: 400px;
+width: 150px;
+height: 150px;
+border-radius: 50%;
+border: 1px;
+background-color: black;
+}
+.médio{
+    display: inline-block;
+    position: relative;
+top: 60px;
+left: 425px;
+width: 100px;
+height: 100px;
+border-radius: 50%;
+border: 1px;
+background-color: black;
+}
+.pequeno{
+    display: inline-block;
+    position: relative;
+top: 78px;
+left: 450px;
+width: 50px;
+height: 50px;
+border-radius: 50%;
+border: 1px;
+background-color: black;
+}
+.sgrande{
+position: relative;
+bottom: 15px;
+left: 400px;
+font-size: xx-large;
+}
+.smédio{
+    position: relative;
+top: 35px;
+left: 447px;
+font-size: xx-large;
+
+}
+.spequeno{
+    position: relative;
+    top: 65px;
+    left: 495px;
+    font-size: xx-large;
+}
+.quimico{
+    display: inline-block;
+    position: relative;
+    bottom: 240px;
+    left: 800px;
+    width: 40px;
+    height: 40px;
+    border: 1px;
+    background-color: red
+}
+.acidente{
+    display: inline-block;
+    position: relative;
+    bottom: 165px;
+    left: 644px;
+    width: 40px;
+    height: 40px;
+    border: 1px;
+    background-color: blue
+}
+.biologico{
+    display: inline-block;
+    position: relative;
+    bottom: 85px;
+    left: 484px;
+    width: 40px;
+    height: 40px;
+    border: 1px;
+    background-color: brown
+}
+.fisico{
+    display: inline-block;
+    position: relative;
+    bottom: 5px;
+    left: 314px;
+    width: 40px;
+    height: 40px;
+    border: 1px;
+    background-color: green
+}
+.ergonomico{
+    display: inline-block;
+    position: relative;
+    top: 75px;
+    left: 192px;
+    width: 40px;
+    height: 40px;
+    border: 1px;
+    background-color: yellow
+}
+.squimico{
+    position: relative;
+    bottom: 250px;
+    left: 810px;
+    font-size: xx-large;
+}
+.sacidente{
+    position: relative;
+    bottom: 175px;
+    left: 655px;
+    font-size: xx-large;
+}
+.sbiológico{
+    position: relative;
+    bottom: 95px;
+    left: 497px;
+    font-size: xx-large;
+}
+.sfisico{
+    position: relative;
+    bottom: 15px;
+    left: 328px;
+    font-size: xx-large;
+}
+.sergonomico{
+    position: relative;
+    top: 65px;
+    left: 202px;
+    font-size: xx-large;
+}
+h2{
+    position: relative;
+    top: 110px;
+    left: 416px;
+    max-width: 500px;
+}
+.im1{
+    position: relative;
+    top: 100px;
+    left: 20px;
+    height: 270px;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+.im2{
+    position: relative;
+    top: 100px;
+    left: 40px;
+    height: 270px;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+.im3{
+    position: relative;
+    top: 100px;
+    left: 60px;
+    height: 270px;
+    width: 652px;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    
+}
+.div1{
+    position: relative;
+top: 128px;
+}
+.ic1{
+    width: 20px;
+    height: 20px;
+}
+.ic2{
+    width: 20px;
+    height: 20px;
+}.ic3{
+    width: 20px;
+    height: 20px;
+}.ic4{
+    width: 20px;
+    height: 20px;
+}
